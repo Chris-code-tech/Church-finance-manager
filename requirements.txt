@@ -1,0 +1,11 @@
+datetime
+PySide6
+sys
+csv
+shutil
+subprocess
+reportlab
+sqlite3
+pathlib
+os
+typing
